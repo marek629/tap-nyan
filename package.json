@@ -1,6 +1,6 @@
 {
-  "name": "tap-nyan",
-  "version": "1.1.0",
+  "name": "@tap-ogg/tap-nyan",
+  "version": "1.2.0",
   "description": "Formatted TAP output like Mocha's spec reporter",
   "scripts": {
     "test": "node test/test.js | ./bin/cmd.js"
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/calvinmetcalf/tap-nyan.git"
+    "url": "https://github.com/marek629/tap-nyan.git"
   },
   "keywords": [
     "tape",
@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calvinmetcalf/tap-nyan/issues"
+    "url": "https://github.com/marek629/tap-nyan/issues"
   },
   "dependencies": {
     "chalk": "^1.1.3",
@@ -32,6 +32,6 @@
     "tap-nyan": "bin/cmd.js"
   },
   "devDependencies": {
-    "tape": "^2.12.0"
+    "tape": "^5.6.3"
   }
 }

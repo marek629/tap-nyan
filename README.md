@@ -14,7 +14,13 @@ For CLI color options see the [supports-color](https://github.com/chalk/supports
 ## Install
 
 ```
-npm install tap-nyan --save-dev
+npm install @tap-ogg/tap-nyan --save-dev
+```
+
+or
+
+```
+yarn add -D @tap-ogg/tap-nyan
 ```
 
 ## Usage
